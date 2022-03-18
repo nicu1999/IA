@@ -1,0 +1,57 @@
+Average bleu 0.5411218507106947 average rouge 0.6569459218116729 for k = 1
+Average bleu 0.4223318419532274 average rouge 0.5226551133149004 for k = 2
+Average bleu 0.36930204963377145 average rouge 0.4565964695123247 for k = 4
+ 
+Average bleu 0.5335882543319638 average rouge 0.6928991716701964 for k = 1
+Average bleu 0.4211043649113364 average rouge 0.5657101421367023 for k = 2
+Average bleu 0.36877658616384223 average rouge 0.4969321671886883 for k = 4
+
+Average bleu 0.5353925316085677 average rouge 0.7275347559495742 for k = 1
+Average bleu 0.4289253933338591 average rouge 0.6095843058437675 for k = 2
+Average bleu 0.3776141558896723 average rouge 0.5393915433134657 for k = 4
+
+TF-IDF
+
+fara noun
+Average bleu 0.6531608203464198 average rouge 0.5990211478420028 for k = 1
+Average bleu 0.5448400904860323 average rouge 0.48814588472364406 for k = 2
+Average bleu 0.4978520970187487 average rouge 0.4398577552241047 for k = 4
+
+fara similarity1
+
+Average bleu 0.6924811383520532 average rouge 0.5910421232921976 for k = 1
+Average bleu 0.594054708717342 average rouge 0.4823157216134726 for k = 2
+Average bleu 0.5453463174814798 average rouge 0.434707055301333 for k = 4
+
+fara weight
+Average bleu 0.7242713433558859 average rouge 0.6280303155146706 for k = 1
+Average bleu 0.6316283958817295 average rouge 0.5339087608735084 for k = 2
+Average bleu 0.5806333438536918 average rouge 0.4855368322172102 for k = 4
+
+cu toate
+
+Average bleu 0.727058594270946 average rouge 0.6309704310230276 for k = 1
+Average bleu 0.6347745332373093 average rouge 0.5370334640967181 for k = 2
+Average bleu 0.583405981756282 average rouge 0.48808214823634805 for k = 4
+
+cu weight 0.4
+Average bleu 0.7180903765580317 average rouge 0.6209359668714137 for k = 1
+Average bleu 0.6219240525343053 average rouge 0.5228237324010725 for k = 2
+Average bleu 0.5714652622979456 average rouge 0.4741257845635932 for k = 4
+
+cu weight 1.2
+Average bleu 0.7222199303471122 average rouge 0.624784802906049 for k = 1
+Average bleu 0.6294148218845569 average rouge 0.5295149370314338 for k = 2
+Average bleu 0.5788449332062278 average rouge 0.48061124932773175 for k = 4
+
+cu sent 3
+Average bleu 0.7604902645304347 average rouge 0.5351899255434628 for k = 1
+Average bleu 0.6626974666047125 average rouge 0.43302363087793594 for k = 2
+Average bleu 0.6131849927689007 average rouge 0.3906398236015485 for k = 4
+
+cu sent 5
+Average bleu 0.6859301023697069 average rouge 0.6953635581922839 for k = 1
+Average bleu 0.5934315727504412 average rouge 0.6069237275867106 for k = 2
+Average bleu 0.5436219756242754 average rouge 0.5545842032287045 for k = 4
+
+
